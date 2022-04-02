@@ -132,7 +132,7 @@ order: 4
 
 </style>
 
-If you are interested in my full and updated resume, please get in touch with me <a href="/contacts">HERE</a>.
+If you are interested in my full and updated resume, please get in touch with me <a href="{{site.baseurl}}/contacts/">HERE</a>.
 
 ## Experience
 
