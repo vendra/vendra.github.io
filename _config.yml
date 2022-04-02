@@ -34,8 +34,10 @@ url: 'https://vendra.github.io'
 github:
   username: vendra             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+linkedin:
+  username: federico-vendramin
+#twitter:
+#  username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
