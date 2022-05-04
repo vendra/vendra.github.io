@@ -132,7 +132,9 @@ order: 4
 
 </style>
 
-If you are interested in my full and updated resume, please get in touch with me [HERE]({% link _tabs/contacts.md %})
+<!--If you are interested in my full and updated resume, please get in touch with me [HERE]({% link _tabs/contacts.md %}) -->
+If you are interested in my full and updated resume, please get in touch with me [HERE.]({{ site.baseurl }}{% link _tabs/contacts.md %})
+
 ## Experience
 
 <div class="timeline">
