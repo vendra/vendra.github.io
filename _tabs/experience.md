@@ -1,7 +1,7 @@
 ---
-title: About
+title: Experience
 icon: fas fa-info-circle
-order: 4
+order: 2
 ---
 
 <style>
@@ -135,7 +135,7 @@ order: 4
 <!--If you are interested in my full and updated resume, please get in touch with me [HERE]({% link _tabs/contacts.md %}) -->
 If you are interested in my full and updated resume, please get in touch with me [HERE.]({% link _tabs/contacts.md %})
 
-## Experience
+## Work Experience
 
 <div class="timeline">
     <div class="timeline-card timeline-card-primary card shadow-sm">
