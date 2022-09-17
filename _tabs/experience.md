@@ -140,8 +140,18 @@ If you are interested in my full and updated resume, please get in touch with me
 <div class="timeline">
     <div class="timeline-card timeline-card-primary card shadow-sm">
         <div class="card-body">
+            <div class="h5 mb-1">Machine Learning Engineer <span class="text-muted h6">at <a href="https://www.scandit.com/">Scandit</a></span></div>
+            <div class="text-muted text-small mb-2">June, 2022 - Present</div>
+            <div>
+                - Training and deployment of object detection models for ShelfView.<br>
+                - Development of prototype algorithms for minimum viable products.
+            </div>
+        </div>
+    </div>
+    <div class="timeline-card timeline-card-primary card shadow-sm">
+        <div class="card-body">
             <div class="h5 mb-1">Algorithm Engineer <span class="text-muted h6">at <a href="https://www.datalogic.com/">Datalogic</a></span></div>
-            <div class="text-muted text-small mb-2">May, 2020 - Present</div>
+            <div class="text-muted text-small mb-2">May, 2020 - June, 2022</div>
             <div>
             	- Management of data collection, annotation and storage.<br>
             	- Training and deployment of Deep Neural networks on production with Tensorflow Lite. <br>
@@ -164,7 +174,7 @@ If you are interested in my full and updated resume, please get in touch with me
     <div class="timeline-card timeline-card-primary card shadow-sm">
         <div class="card-body">
             <div class="h5 mb-1">M.Sc. Software Engineering <span class="text-muted h6"> - Università degli Studi di Padova</span></div>
-            <div class="text-muted text-small mb-2">2015 - 2020</div>
+            <div class="text-muted text-small mb-2">2015 - 2018</div>
             <div><a href="http://tesi.cab.unipd.it/59668/1/Vendramin_Federico_1129661_Tesi.pdf">Thesis: Learning Robot Task Planning Primitives by means of Long Short-Term Memory</a></div>
         </div>
     </div>
