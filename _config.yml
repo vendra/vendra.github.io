@@ -23,10 +23,10 @@ timezone:
 
 title: Federico Vendramin                          # the main title
 
-tagline: Research Engineer   # it will display as the sub-title
+tagline: Senior Machine Learning Engineer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Federico Vendramin - Research Engineer in the field of Machine Learning, Computer Vision and Robotics.
+  Federico Vendramin — Senior Machine Learning Engineer specialized in Computer Vision and Robotics.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://vendra.github.io'
