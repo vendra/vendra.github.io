@@ -143,8 +143,10 @@ If you are interested in my full and updated resume, please get in touch with me
             <div class="h5 mb-1">Machine Learning Engineer <span class="text-muted h6">at <a href="https://www.scandit.com/">Scandit</a></span></div>
             <div class="text-muted text-small mb-2">June, 2022 - Present</div>
             <div>
-                - Training and deployment of object detection models for ShelfView.<br>
-                - Development of prototype algorithms for minimum viable products.
+                - Led large-scale product recognition for retail, powering Scandit ShelfView shelf intelligence.<br>
+                - Trained and deployed object detection and visual search models to production at scale.<br>
+                - Built data/labeling pipelines and evaluation frameworks to improve precision/recall.<br>
+                - Prototyped and iterated on algorithms to de-risk new features and accelerate MVPs.
             </div>
         </div>
     </div>
